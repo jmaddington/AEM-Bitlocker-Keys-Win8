@@ -1,5 +1,5 @@
 # Overview #
-AEM component that grabs Bitlocker keys keys and status for all connected drives.
+AEM component that grabs Bitlocker keys keys and status for all connected drives, for Windows 8 and up.
 
 Icon from https://openclipart.org/detail/190821/cles-de-serrure-lock-keys
 
