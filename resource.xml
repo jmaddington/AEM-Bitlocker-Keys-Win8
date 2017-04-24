@@ -1,0 +1,15 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Bitlocker Keys [Win8+]</name>
+    <category>scripts</category>
+    <description>Grabs Bitlocker keys for all connected drives. Windows 8 and up.
+
+Icon from https://openclipart.org/detail/190821/cles-de-serrure-lock-keys</description>
+    <uid>d5e0010a-a562-4c17-81a6-3589af44aee6</uid>
+    <hash />
+    <version>34</version>
+    <timeout>600</timeout>
+    <securityLevel>3</securityLevel>
+    <installType>powershell</installType>
+  </general>
+</component>
