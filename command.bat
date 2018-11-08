@@ -1,3 +1,3 @@
-echo "Bitlocker Information:"
-echo (Get-BitLockerVolume)
-echo (Get-BitLockerVolume).KeyProtector
+$bitlockerKeys=(Get-BitLockerVolume).KeyProtector
+$registryPath="HKLM:\SOFTWARE\CentraStage\" 
+$re
